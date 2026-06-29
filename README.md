@@ -30,12 +30,6 @@ and **Telegram bots** — whatever the operation needs.
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 📌 Featured projects
-
-- **[Svix Manager](https://github.com/juanelfers/svix-project)** — a Next.js dashboard to manage webhooks through the Svix API. → [Live demo](https://svix-project.vercel.app)
-- **[Collector Extension](https://github.com/juanelfers/collector-extension)** — a browser extension that reads your Pokémon card collection and highlights which cards you already own across other sites.
-- **[Solid Sudoku](https://github.com/juanelfers/solid-sudoku)** — a Sudoku game built with SolidJS. → [Live demo](https://solid-sudoku.vercel.app)
-
 ### 📫 Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-elfers-339a28371)
