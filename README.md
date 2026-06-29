@@ -38,6 +38,6 @@ and **Telegram bots** — whatever the operation needs.
 
 ### 📫 Get in touch
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-elfers-339a28371)
+- ✉️ [juan.elfers@gmail.com](mailto:juan.elfers@gmail.com)
 - 🌐 [pokeargentum.com](https://pokeargentum.com)
-<!-- 💼 LinkedIn: pendiente -->
-<!-- ✉️ Email: pendiente -->
