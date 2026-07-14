@@ -1,22 +1,9 @@
 # Hi, I'm Juan Elfers 👋
 
-**Full-stack developer from Argentina** · Founder & sole engineer of [PokeArgentum](https://pokeargentum.com)
+**Full-stack developer from Argentina** · Founder & sole engineer
 
 I build products end-to-end — from the database and API to the UI and the
 boring-but-critical operational tooling that keeps them alive in production.
-
-### 🔭 What I'm building
-
-**[PokeArgentum.com](https://pokeargentum.com)** — a Pokémon TCG e-commerce
-platform and full back-office I designed, built, and operate solo:
-
-- **Storefront & checkout** — Next.js 15 / React 19 on Vercel Postgres (raw SQL, no ORM)
-- **Integrations** — MercadoLibre sync, Resend transactional email, payment & courier tracking (Andreani / Correo Argentino)
-- **Automation** — TCGPlayer price-monitoring crons, restock alerts, segmented email campaigns, Telegram ops bots
-- **AI-assisted tooling** — customer-support drafting and internal workflows
-
-Beyond the web app I also ship **Chrome extensions**, **Electron desktop apps**,
-and **Telegram bots** — whatever the operation needs.
 
 ### 🛠️ Tech I work with
 
