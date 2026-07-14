@@ -16,9 +16,3 @@ boring-but-critical operational tooling that keeps them alive in production.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### 📫 Get in touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-elfers-339a28371)
-- ✉️ [juan.elfers@gmail.com](mailto:juan.elfers@gmail.com)
-- 🌐 [pokeargentum.com](https://pokeargentum.com)
